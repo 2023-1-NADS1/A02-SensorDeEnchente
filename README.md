@@ -2,7 +2,7 @@
 
 
 # Introdução
-Dispositivo de medição d níivel de água para auxilia na detecção do aumento do nível de água em rios, córregos e escoamentos em regiões afetadas por enchentes. Alertando a população local e interessados, sobre os riscos detectados naquela região.
+Dispositivo de medição de níivel de água para auxilia na detecção do aumento do nível de água em rios, córregos e escoamentos em regiões afetadas por enchentes. Alertando a população local e interessados, sobre os riscos detectados naquela região.
 ### 🚧 Projeto
 
 <img src="https://github.com/2023-1-NADS1/A02-SensorDeEnchente/blob/main/Esquema_Modelo%20_Sensor_de_Enchente.png?raw=true" />
