@@ -6,8 +6,8 @@ Dispositivo de medição de níivel de água para auxiliar na detecção do aume
 ### 🚧 Projeto
 
 <img src="https://github.com/2023-1-NADS1/A02-SensorDeEnchente/blob/main/Esquema_Modelo%20_Sensor_de_Enchente.png?raw=true" />
+<img src="https://github.com/2023-1-NADS1/A02-SensorDeEnchente/blob/main/Recebimento_de_dados_app.png?raw=true"/>
 
-<img src="[https://github.com/2023-1-NADS1/A02-SensorDeEnchente/blob/main/Esquema_Modelo%20_Sensor_de_Enchente.png?raw=true](https://github.com/2023-1-NADS1/A02-SensorDeEnchente/blob/main/Recebimento_de_dados_app.png?raw=true)" />
 ### 🔧 Instalação
 Para trabalhar com este projeto é necessario que tenha instalado na sua máquina os seguintes programas:
  - Arduino
