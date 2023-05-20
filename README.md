@@ -10,6 +10,7 @@ Dispositivo de medição de níivel de água para auxiliar na detecção do aume
 ### 🔧 Instalação
 Para trabalhar com este projeto é necessario que tenha instalado na sua máquina os seguintes programas:
  - Arduino
+ - Application para o Androide ("")
 ## 📦 Tecnologias
   - ESP8266
   - Placa De Ensaio Protoboard
